@@ -1,3 +1,3 @@
 # redis-learn new
-try to update
+try to new
 
