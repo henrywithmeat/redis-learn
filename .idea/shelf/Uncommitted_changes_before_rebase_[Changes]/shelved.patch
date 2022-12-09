@@ -1,0 +1,17 @@
+Index: src/main/java/hello.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>public class hello {\n    public static void main(String[] args) {\n        System.out.println(\"hello world\");\n    }\n}\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/hello.java b/src/main/java/hello.java
+--- a/src/main/java/hello.java	(revision be3eab436655faec6eab05cce8b7a8bcfe02afcb)
++++ b/src/main/java/hello.java	(date 1670511354734)
+@@ -1,5 +1,5 @@
+ public class hello {
+     public static void main(String[] args) {
+-        System.out.println("hello world");
++        System.out.println("update");
+     }
+ }
