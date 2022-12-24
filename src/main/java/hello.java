@@ -3,6 +3,7 @@ public class hello {
         System.out.println("sth strange");
         System.out.println("new wave");
         System.out.println("new");
+        System.out.println("new");
     }
 
 }
